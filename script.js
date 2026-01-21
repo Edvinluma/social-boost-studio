@@ -156,7 +156,7 @@ const translations = {
     footer_text: "Marketing digjital me fokus në rezultate: Meta Ads, Google Ads, SEO, Content dhe Video Editing.",
     footer_nav: "Navigimi",
     footer_contact: "Kontakt",
-    footer_rights: "Të gjitha të drejtat."
+    footer_rights: "Copyright."
   },
 
   en: {
@@ -293,7 +293,7 @@ const translations = {
     footer_text: "Digital marketing focused on results: Meta Ads, Google Ads, SEO, Content and Video Editing.",
     footer_nav: "Navigation",
     footer_contact: "Contact",
-    footer_rights: "All rights reserved."
+    footer_rights: "Copyright."
   }
 };
 
@@ -375,3 +375,4 @@ if (form) {
     window.location.href = `mailto:lumaedvin@gmail.com?subject=${subject}&body=${body}`;
   });
 }
+
